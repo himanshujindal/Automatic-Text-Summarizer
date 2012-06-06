@@ -1,0 +1,32 @@
+
+    FROM desk-top micros to the largest mainframes , conventional computers are built around a single processor and a single store of memory .
+    At a seminar hosted by the Edinburgh Concurrent Supercomputer Project last month , researchers and vendors could finally say with confidence that supercomputing in the 1990s and beyond will be done by parallel computers .
+    There are fundamental limits to how fast a conventional computer can go .
+	
+
+    Data can not be moved from the processor to the memory and back faster than a certain speed , which limits the performance of the computer as a whole .
+    Faced with these problems , computer scientists began in the mid 1970s to experiment with using many processors in a single machine to work in parallel on a single problem .
+	
+
+    The advantage of this approach is that it can be scaled up_to build computers of any size and speed .
+
+    Meiko was set up in 1985 by members of the group which developed the transputer chip for Inmos .
+	
+
+    The transputer contains a processor , memory , and communications links on a single chip , which makes it an ideal building block for multi-processor computers .
+	
+
+    More importantly , the transputer allows modular supercomputers to be built .
+	
+
+    When users want to improve the performance of their machine , they do not have to throw it away and buy a newer model .
+	
+
+    Instead , they can buy more processors and add them to the existing machine .
+	
+ Parallel computing has matured so much that users and manufacturers are beginning to discuss standardisation .
+
+    Now that CalTech '_ s operating environment is being marketed commercially by Parasoft under the name Express , and with Meiko '_ s introduction of a machine-independent programming system called CS Tools , a single , uniform environment is becoming increasingly likely .
+	
+
+    The emergence of such standards , and the ability to re-use programs written in conventional languages , should bring down the last barriers to wide acceptance of parallel computing .

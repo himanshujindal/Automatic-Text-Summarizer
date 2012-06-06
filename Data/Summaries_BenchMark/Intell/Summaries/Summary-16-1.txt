@@ -1,0 +1,8 @@
+ The Internet browser wars heated up Monday as market leader Netscape Communications Corp launched its latest Navigator software and officials of rival Microsoft Corp. said they saw little new . 
+ While Netscape has a commanding lead in the growing browser market , with a share estimated at over 80 percent , industry analysts say Microsoft's latest software poses a threat to that dominance . 
+ In launching the latest version of Navigator , Mountain View , Calif.-based Netscape highlighted a new electronic mail feature that will deliver information from selected content providers directly to the user's computer "_ in box . _"
+
+ The new software also offers enhanced audio , video and three-dimensional animation .
+ Analysts said while the rapidly expanding Internet market was big enough for both players , Netscape was certain to see its share of the browser market diminish .
+	
+They said the browser war was likely to become even more intense when Microsoft unveiled its Internet Explorer version 4.0 , expected early next year .

@@ -1,0 +1,14 @@
+Researchers from the Weizmann Institute in Rehovot and the Technion in Haifa have developed a computer so tiny that a trillion of them could fit into a laboratory test tube.
+DNA strands exist in almost every body cell -- they are biological software that tell each cell and molecule what to do.
+
+We don't need to teach the cell new tricks, we just need to put the existing tricks in the right order," says Prof. Ehud Shapiro of the Weizmann Institute, who headed the research.
+Say the scientists, tiny DNA strands can store huge amounts of information in minuscule space -- one cubic centimeter of DNA can store more information than a trillion CDs.
+Although computers with DNA input and output have been made before, they have always involved a laborious series of reactions, each requiring human supervision. "
+
+Previous biological computers were the same size as the room in which the supervisors and computer equipment worked," said Shapiro. "
+Professor Shapiro and a growing number of other scientists believe DNA-based computers may lead to a number of useful applications -- they could be planted inside cells, where they would watch for irregularities or even synthesize drugs.
+
+A software section sticks to the input with the help of an enzyme.
+Another enzyme then cuts the section and reveals the next sequence.
+Once the computer has dissected the entire input, it can determine whether the sequence appeared an even or odd number of times according to the last label -- the "output".
+

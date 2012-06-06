@@ -1,0 +1,14 @@
+Enhancements enable up to 500,000 users on a common UC platform; new mobility and federation capabilities extend reach of UC beyond the walls of the enterprise
+The new OpenScape UC Suite can now efficiently provide a single UC domain for organizations ranging from 100 to 500,000 users, enabling the highest level of productivity and collaboration for workers across the campus or around the world.
+
+It also provides economies of scale in public and private cloud deployments, creating a unified user experience for presence, messaging, contacts and directories in large multi-site, multi-vendor organizations.
+Massively-scaled global UC deployments are now supported with up to 40,000 UC users per cluster and up to 500,000 UC users per system.
+OpenScape UC Suite now addresses this need with new OpenScape Mobile clients for Apple iOS and Android.
+
+The mobile clients are app store ready, providing choice and flexibility to users while supporting the growing "bring your device to work" trend.
+"The ability to collaborate is becoming a prevailing requirement for mobile personnel, so IT support for the use of leading smart phones and tablets is very relevant," said Jay Lassman, Research Director, Gartner, a leading analyst firm.
+
+"This approach not only enables broader use of the enterprise communications network, but also aligns with the growing desire among people who are already using a preferred mobile device."
+OpenScape Web Collaboration now includes a new Mac OS client and a Microsoft Outlook plug-in
+"OpenScape UC Suite is unique in the industry for its ability to provide UC to extended organizations of all sizes and to deliver a consistent UC experience on the user's device of choice."
+

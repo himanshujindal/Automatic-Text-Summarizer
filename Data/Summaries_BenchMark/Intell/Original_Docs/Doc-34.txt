@@ -1,0 +1,217 @@
+    In search of the most valuable GEMs of all Malcolm Smith on the importance of genetically-engineered micro-organisms .
+	
+
+    LOSING your favourite gems may be a personal disaster .
+	
+
+    But losing GEMs could have much farther reaching implications .
+	
+
+    GEMs are genetically engineered micro-organisms and finding them again could prove vital .
+	
+
+    So_far , none are known to have been released in the UK .
+     Link: [Comments: zero anaphor of GEMS]
+	
+
+    But several are in the pipeline and there have been trials .
+	
+
+    The reluctance of UK Authorities to sanction their release ?
+	
+
+    for such agricultural purposes as extending the range of plants which harbour nitrogen-fixing bacteria in their roots ?
+	
+
+    is understandable .
+	
+
+    Once out you can never round them up .
+	
+
+    Detecting their presence is as much as is practical .
+	
+
+    Even that is far from straightforward .
+	
+
+    Alun Morgan and Dr Jon Saunders of the department of genetics and microbiology at the University of Liverpool , working with Dr Roger Pickup of the Institute of Terrestrial Ecology , Windermere , form one of a number of groups of scientists developing techniques to spot a GEM .
+	
+
+    There are so many bacteria everywhere that picking out a GEM is a_bit like looking for a candle amongst Blackpool '_ s illumination .
+	
+
+    Soil , for_example , can easily have millions of bacteria ?
+	
+
+    of very many different species ?
+	
+
+    in just a gram .
+	
+
+    A second problem is that many bacteria living & bquo ; in the wild & equo ; are not always easy to culture in the laboratory .
+	
+
+    Many have fickle requirements and others lie dormant until very precise conditions happen to come along .
+	
+
+    As a result , it '_ s been estimated that not many more than one per_cent can be cultured at any one time .
+	
+
+    The researchers have devised a suite of methods based on detecting a marker gene engineered into the GEM .
+     Link: [Comments: the researchers refers to the scientists mentioned in this sentence]
+	
+
+    They '_ ve used one that codes for an enzyme called catechol 2,3-dioxygenase ( C230 for short ) .
+	
+
+    It converts catechol ?
+	
+
+    a naturally occuring substance in ordinary metabolism ?
+	
+
+    to a vivid yellow compound .
+	
+
+    The gene is very uncommon in nature so any intense yellow colonies of bacteria isolated from the wild ?
+	
+
+    and cultured ?
+	
+
+    are almost certainly the lost GEMs .
+	
+
+    It '_ s not the only way of checking for C230 .
+	
+
+    The enzyme can be tested for chemically , even in dilute water samples or by using other more complex , state of the art , tricks like DNA amplification .
+	
+
+    Using catechol is relatively simple and cheap .
+	
+
+    But the snag is that first you have to be able to recover the GEMs to culture them to do the catechol yellowing test .
+	
+
+    To develop a recovery method , Morgan , Saunders and Pickup used a Gem called Pseudomonas putida mt-2 , a modified common soil bacterium which may have wide applications for destroying toxic substances .
+	
+
+    Their method has been designed for recovering a GEM from water ?
+	
+
+    not easy because any bacteria in it are much less abundant than , say in soil .
+	
+
+    This GEM ?
+	
+
+    like most bacteria ?
+	
+
+    is n't the smooth cell shape that it looks .
+	
+
+    Tiny protein structures protrude ?
+	
+
+    like flagellae to help it move and pili to attach itself to surfaces .
+	
+
+    Their composition differs from one species of bacterium to the next .
+	
+
+    So mt-2 '_ s purified pili and flagellae were injected into animals so that they rapidly produced antibodies specific to them .
+	
+
+    These were then collected from their blood and purified .
+	
+
+    The next step was to chemically link these highly specific antibodies to small magnetised polystyrene spheres .
+	
+
+    Suspended in water , only the GEM for which the antibodies were specific will attach to the beads .
+	
+
+    The beads plus GEM are recovered with a magnet .
+	
+
+    The accuracy of the recovery process hinges on just how specific the flagellae/pili antibodies are .
+	
+
+    Once you have the GEMs on the polystyrene spheres they can be washed off and cultured for testing with catechol or other techniques .
+	
+
+    According_to the researchers , highly specific antibodies have ensured that the technique is a success .
+	
+
+    No confusion was found when they tested them against 200 different isolates of the same , but genetically unmodified , bacterium taken from lake water .
+	
+
+    This research , to enable identification of a released GEM ?
+	
+
+    and its whereabouts ?
+	
+
+    is essential because_of the risks involved in letting GEMs out_of the laboratory .
+	
+
+    There are concerns that , once released , GEMs might exhibit some previously unknown pathogenicity , might take over from some naturally occurring bacteria or pass on some perhaps unwanted trait to indigenous bacteria .
+	
+
+    There are also fears that a genetic mutation ?
+	
+
+    over which there could be no control ?
+	
+
+    could suddenly produce a GEM with some nasty trick up its sleeve .
+	
+
+    There may be ways around this , at_least in part , as Jon Saunders points out .
+	
+
+    Engineering a time delayed & bquo ; lethal gene & equo ; into a GEM to give it a finite life ?
+	
+
+    making it sensitive to low air temperatures so that frost kills it ?
+	
+
+    is one way .
+	
+
+    Doubling up on & bquo ; lethal genes & equo ; ?
+	
+
+    by making a GEM both frost susceptible and ultraviolet light sensitive ?
+	
+
+    is a belt and braces approach .
+	
+
+    But none of these tricks can insure against a mutation .
+	
+
+    Official concern was voiced at the EC '_ s Environment Council in September attended by Chris Patten , the UK '_ s Environment Minister .
+	
+
+    Reporting to the House of Commons , he said : & bquo ; Agreement was reached on a directive concerning the deliberate release ?
+	
+
+    of genetically modified organisms .
+	
+
+    The directive requires member states to establish systems for the national regulation of releases .
+	
+
+    It also establishesa system for the review and clearance of products containing genetically modified organisms so that conditions can be established for their marketing . & equo ;
+	
+
+    Reliable detection is an essential part of the precautions .
+	
+	
+
+ng from the supermarket shelf .

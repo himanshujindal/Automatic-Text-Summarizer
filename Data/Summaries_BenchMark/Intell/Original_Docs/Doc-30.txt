@@ -1,0 +1,118 @@
+    Slow progress in the war on diabetes : Nicholas Russell says investigative research may beat flashy technology
+	
+
+    By NICHOLAS RUSSELL
+	
+
+    ONE IN 50 Britons suffers from sugar diabetes and , despite 100 years of scientific study , we still do not know how it is caused .
+	
+
+    It is unlikely that further knowledge will improve treatment , but it may allow prevention of the disease , at_least in a proportion of cases .
+	
+
+    Normal individuals maintain the concentration of blood sugar at a constant level by their own insulin , which causes cells in muscle , liver and fatty tissue ?
+	
+
+    target cells ?
+	
+
+    to take up excess circulating sugar and store it .
+	
+
+    The diabetic is unable to regulate sugar in this way .
+	
+
+    In theory there are two distinct versions of the disease .
+	
+
+    Either no insulin is produced ( Type 1 diabetes ) or the muscle , liver and fat cells fail to respond to insulin ( Type 2 ) .
+	
+
+    In practice the distinction is not so clear-cut .
+	
+
+    When insulin was isolated at the Toronto Medical School in 1922 , a far-sighted decision by an executive of the Eli Lilly Company ensured the dominance of his firm in commercial production .
+	
+
+    With astonishing speed , in the era before regulation of new drugs , Lilly developed systems for extracting pork and beef insulin from slaughterhouse offal .
+	
+
+    Effective therapy has therefore been available for more than 60 years .
+	
+
+    There are defects , the most obvious being the inconvenience of daily injections , the relatively crude control they provide ( sometimes resulting in coma ) and long-term damage to organs , including eyes and kidneys .
+	
+
+    Some of these are unavoidable , others are said to result from the use of animal insulin , which differs slightly in structure from human insulin .
+	
+
+    In the 1970s , genetic engineering made it possible to clone human insulin genes in micro-organisms which secreted insulin with the same structure as natural human material .
+	
+
+    Two systems for engineering a & bquo ; human & equo ; insulin were developed and most patients have been switched to these engineered products .
+	
+
+    But doubts surround the long-term benefits .
+	
+
+    There is alarm at the subtle changes in reaction to the new insulin , which seems to give less warning of the danger of erratic sugar control .
+	
+
+    The new techniques were used to & bquo ; improve & equo ; existing therapy , while fundamental research into the causes of diabetes has only recently begun to yield important results .
+	
+
+    Three papers published recently in Science move us a_little closer to understanding the basis of the disease , which turns out to be highly complex .
+	
+
+    Most diabetes is the Type 2 form , in which the patient still generates insulin , but the body '_ s target cells fail to respond to it .
+	
+
+    Detailed biochemical work has shown that target cells carry an insulin receptor molecule on their surfaces , which reacts with insulin molecules in the surrounding body fluids .
+	
+
+    A series of complex activation steps then occurs which changes the state of the target cells .
+	
+
+    One consequence is the appearance of sugar-transporting molecules which bring sugar in from the surroundings .
+	
+
+    Diabetics may develop errors at any stage in this process , making their cells resistant to insulin stimulation .
+	
+
+    Therapeutically , this resistance can often be overcome by insulin injections .
+	
+
+    The increase in concentration of insulin seems to force a response from the slow or faulty system .
+	
+
+    Two of the papers in Science came from Japan and reported on individuals suffering from Type A syndrome , a rare variant of Type 2 diabetes .
+	
+
+    In both cases it seems that the problem lay in the transmission of the activation signal across the target cell membrane , once insulin has bound to the surface receptor .
+	
+
+    The activation molecule is an enzyme called & bquo ; tyrosine kinase & equo ; and in both individuals this molecule was not functioning properly because they had inherited a faulty kinase gene .
+	
+
+    But the faults in the genes and the resultant proteins were different in each case : one producing an enzyme molecule with large structural changes , the other having a single amino acid change at a critical part of the molecule .
+	
+
+    The third paper , from the US , reports work with rats given diabetes experimentally with the drug streptozotocin .
+	
+
+    Analysis of cells from these rats showed that drug action had interfered with the expression of genes for some of the proteins designed to move sugar into muscle and fat cells , exactly the target tissues which must be stimulated by insulin if they are to take up excess sugar .
+	
+
+    This provides circumstantial evidence that some cases of human Type 2 diabetes result from a similar failure .
+	
+
+    Working out the whole story will be a long , difficult process of unravelling the pathways of insulin action in cells .
+	
+
+    By contrast , genetically-engineered & bquo ; human & equo ; insulin is flashy stuff , a rapid application of advanced molecular genetics to modify a therapeutic product .
+	
+
+    But this modification may be more of a public relations coup than a genuine therapeutic improvement .
+	
+
+    In the long run the technological hare may be outrun by the investigative tortoise .
